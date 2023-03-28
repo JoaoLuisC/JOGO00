@@ -1,6 +1,14 @@
 <h1><b>JOGO00</b></h1>
 <p>Este é um jogo em que o personagem precisa sobreviver o maior tempo possível desviando dos inimigos.</p> 
 
+<h1><b>Descrição</b></h1>
+<p>
+    <ul>
+        <li>Este é um jogo em que o objetivo do personagem é sobreviver o maior tempo possível desviando dos inimigos.</li>
+        <li>O jogo consiste em desviar dos inimigos pelo maior tempo possível para manter o personagem vivo.</li>
+    </ul>
+</p>
+
 <h1><b>Como Jogar</b></h1>
 <p>Para jogar, utilize as teclas direcionais para movimentar o personagem e desviar dos inimigos que surgem na tela. O objetivo é sobreviver o maior tempo possível.</p>
 
